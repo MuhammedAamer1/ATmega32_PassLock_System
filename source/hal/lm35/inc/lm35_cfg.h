@@ -2,7 +2,7 @@
  * lm35_cfg.h
  *
  * Created: 7/21/2025 9:13:24 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 
 
