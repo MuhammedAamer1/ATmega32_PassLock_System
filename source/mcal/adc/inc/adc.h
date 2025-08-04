@@ -2,7 +2,7 @@
  * adc.h
  *
  * Created: 7/21/2025 6:05:13 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 
 /*
