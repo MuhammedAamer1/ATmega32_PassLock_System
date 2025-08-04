@@ -2,7 +2,7 @@
  * adc_types.h
  *
  * Created: 7/21/2025 6:08:43 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 
 
