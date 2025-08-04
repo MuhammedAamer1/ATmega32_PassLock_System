@@ -2,7 +2,7 @@
  * lcd.c
  *
  * Created: 7/17/2025 5:56:59 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 
 #define F_CPU 16000000UL
