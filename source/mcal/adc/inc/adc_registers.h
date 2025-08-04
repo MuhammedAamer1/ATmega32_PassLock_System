@@ -2,7 +2,7 @@
  * adc_registers.h
  *
  * Created: 7/21/2025 6:12:34 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 
 
