@@ -2,7 +2,7 @@
  * eeprom.c
  *
  * Created: 7/20/2025 5:52:43 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 
 #include "std_types.h"
