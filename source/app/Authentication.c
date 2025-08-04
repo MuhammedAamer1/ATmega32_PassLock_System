@@ -2,7 +2,7 @@
  * Authentication.c
  *
  * Created: 7/23/2025 9:01:56 PM
- * Author: Administrator
+ * Author: Muhammed
  */
 
 #define F_CPU 16000000UL
