@@ -2,7 +2,7 @@
  * eeprom_register.h
  *
  * Created: 7/20/2025 6:11:07 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 
 
