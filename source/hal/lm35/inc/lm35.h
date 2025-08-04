@@ -2,7 +2,7 @@
  * lm35.h
  *
  * Created: 7/21/2025 9:06:02 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 
 
