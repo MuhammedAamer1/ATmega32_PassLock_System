@@ -2,7 +2,7 @@
  * adc.c
  *
  * Created: 7/21/2025 6:05:28 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 #include "adc_registers.h"
 #include "adc_types.h"
