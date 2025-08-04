@@ -2,7 +2,7 @@
  * button.c
  *
  * Created: 7/15/2025 6:37:28 PM
- *  Author: mo7am
+ *  Author: Muhammed
  */ 
 
 #include "button.h"
